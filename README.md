@@ -35,6 +35,10 @@
 <table>
   <tr>
     <td align="center" width="96">
+      <img src="https://githubusercontent.com" width="48" height="48" alt="PHP" />
+      <br />PHP
+    </td>
+    <td align="center" width="96">
       <img src="https://githubusercontent.com" width="48" height="48" alt="SQL" />
       <br />SQL
     </td>
@@ -62,6 +66,6 @@
 
 ## 📫 Me Contacter
 
-- **Email :** mon.adresse.email@example.com
+- **Email :** djossoukhalil92@gmail.com
 - **LinkedIn :** *(Profil actuellement en maintenance, contactez-moi par email !)*
 
