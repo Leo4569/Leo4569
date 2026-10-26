@@ -2,7 +2,7 @@
 
 # 👋 Bonjour, je suis un Développeur Web Junior (Front & Back)
 
-<img src="https://giphy.com" width="300" alt="Dev coding GIF" />
+<img src="https://myoctocat.com" width="200" alt="GitHub Mascot" />
 
 ### 🚀 Objectif : Concevoir des applications web dynamiques et optimiser vos architectures de données.
 *À la recherche d'une première opportunité professionnelle (CDI / Stage / Alternance).*
