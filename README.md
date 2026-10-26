@@ -31,5 +31,5 @@
 
 ## 📫 Me Contacter
 
-- **Email :** mon.adresse.email@example.com
+- **Email :** djossoukhalil92@gmail.com
 - **LinkedIn :** *(Profil actuellement en maintenance, contactez-moi par email !)*
